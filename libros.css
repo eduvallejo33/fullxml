@@ -1,0 +1,26 @@
+p{
+    display: block;
+    color: blue;
+    
+}
+
+h2{
+	margin-left: 20px;	
+	color: blue;
+
+}
+
+span {
+	color: black;
+	background-color: yellow;
+	font-weight: bold;
+	}
+
+ul {
+	color: blue;
+
+}
+
+titulo {
+		color: red;
+}
