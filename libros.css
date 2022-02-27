@@ -1,22 +1,20 @@
-p{
-    display: block;
-    color: blue;
-    
-}
+     p {
+    	display: block;
+    	color: blue;
+        }
 
-h2{
+    h2 {
 	margin-left: 20px;	
 	color: blue;
+	}
 
-}
-
-span {
+  span {
 	color: black;
 	background-color: yellow;
 	font-weight: bold;
 	}
 
-ul {
+    ul {
 	color: blue;
 
-}
+	}
